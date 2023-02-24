@@ -1,7 +1,8 @@
-# BootCamp Java Developer 
+# BootCamp Java Developer
+
 <img align="center" height="180em" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-        ### Dio + Banco Pan
+### Dio + Banco Pan
 
 ## Objetivo deste Repositório 👨🏼‍💻
 
@@ -31,4 +32,4 @@ Apaixonado pelo mundo Tech, de mãos dadas para esta incrível jornada!
 - [Badges para Devs](https://dev.to/envoy_/150-badges-for-github-pnk/)
 - [Emojipedia](https://emojipedia.org/)
 
-__A trasição de carreira não é facil, mas estar acompanhado dessas duas empresas Gigantes, me deixa mais tranquilo! __
+__A transição de carreira não é facil, mas estar acompanhado dessas duas empresas Gigantes, me deixa mais tranquilo! __
