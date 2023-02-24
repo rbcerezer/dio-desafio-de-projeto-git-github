@@ -1,13 +1,13 @@
 # BootCamp Java Developer
 ### Dio + Banco Pan
 
-## Objetivo deste Repositório
+## Objetivo deste Repositório 👨🏼‍💻
 
 - 1° Desafio de projeto
 - Mostrar habilidades adquiridas através dos módulos de Git/GitHub
 - Exemplos: "git init" "git config" "git add" "git status" "git pull/push" "git clone"
 
-## Tecnologia Usadas
+## Tecnologia Usadas 🚀
 - Git: Sistema de Versionamento de Código Distribuido (VCS)
 - GitHub: Serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git.
 
@@ -23,3 +23,9 @@
 </div><br/>
 
 Apaixonado pelo mundo Tech, de mãos dadas para esta incrível jornada!
+
+## Links de Ajuda
+
+- [Sintaxe Básica MarkDown](https://markdown.net.br/sintaxe-basica/?utm_content=cmp-true/)
+- [Badges para Devs](https://dev.to/envoy_/150-badges-for-github-pnk/)
+- [Emojipedia](https://emojipedia.org/)
